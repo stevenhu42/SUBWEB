@@ -91,7 +91,7 @@ export const backendConfig = [
   },
   {
     label: "自建本地服务",
-    value: "http://100.92.142.53:25500/sub?",
+    value: "http://[IP or Domain]:25500/sub?",
   },
 ];
 export const externalConfig = [
