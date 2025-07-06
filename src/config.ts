@@ -96,6 +96,16 @@ export const backendConfig = [
 ];
 export const externalConfig = [
   {
+    label: "VIP",
+    options: [
+      {
+        label: "VIP_Online_Multicountry_Mini",
+        value:
+          "https://raw.githubusercontent.com/stevenhu42/ACL4SSR/refs/heads/main/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini",
+      },
+    ],
+  },
+  {
     label: "CM规则",
     options: [
       {
